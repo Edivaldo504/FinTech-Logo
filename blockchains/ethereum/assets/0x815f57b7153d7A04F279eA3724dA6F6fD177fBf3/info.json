@@ -1,0 +1,25 @@
+{
+  "name": "FinTech Coin",
+  "symbol": "FTC",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "A FinTech Coin (FTC) é um token ERC-20 focado em soluções inovadoras para o setor financeiro, com ênfase em acessibilidade, segurança e descentralização.",
+  "website": "https://edivaldo504.github.io/FinTechCoin-Website/",
+  "explorer": "https://etherscan.io/token/0x815f57b7153d7A04F279eA3724dA6F6fD177fBf3",
+  "status": "active",
+  "id": "0x815f57b7153d7A04F279eA3724dA6F6fD177fBf3",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/Edivaldo504/FinTechCoin-Website"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/FinTechCoinFTC"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/FinTechCoinOficial"
+    }
+  ]
+}
